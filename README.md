@@ -1,4 +1,3 @@
 My name is Jakob Kretzschmar, I am interested in Kotlin and Kotlin Multiplatform.
 
-Links:
-[Maven Central](https://repo1.maven.org/maven2/net/axay/) artifacts, [Docker](https://hub.docker.com/u/bluefireoly) repositories, [Spigot](https://www.spigotmc.org/members/bluefireoly.198068/) profile, [ClashOfCode](https://www.codingame.com/profile/3c1b96d29d92dfe21ce12973551d7a288612614) profile, Discord `BLUE#1111`
+An overview of all [links](https://axay.net/links) to my profiles and more can be found on my [homepage](https://axay.net).
